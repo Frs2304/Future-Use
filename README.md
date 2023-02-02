@@ -22,4 +22,4 @@ Badges: [shields.io](https://shields.io/)
 
 ## Tech Stack
 
-**Server:** Node, Express.
+**Server:** Node.js
