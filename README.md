@@ -14,3 +14,6 @@ Node.js is a cross-platform, open-source server environment that can run on Wind
 ## Tech Stack
 
 **Server:** Node.js
+
+## IDE
+VS Code
