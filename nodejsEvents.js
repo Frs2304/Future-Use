@@ -11,6 +11,6 @@ myEmitter.on('WaterFull', ()=> {
     },3000);
 });
 
-console.log("The script is running")
-console.log("The script is still running")
+console.log("The script is running");
+console.log("The script is still running");
 myEmitter.emit('WaterFull');
