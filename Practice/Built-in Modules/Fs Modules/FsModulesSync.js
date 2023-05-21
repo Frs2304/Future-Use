@@ -6,6 +6,7 @@ const second = readFileSync('.second.txt','utf8');
 
 console.log(first,second);
 
+// Synchronously creates and writes into a new file
 writeFileSync(
     'result.txt',
     `Here is the result : ${first}, ${second}`
