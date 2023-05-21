@@ -7,4 +7,4 @@ function errorCallback(err, data){
     console.log(data);
 }
 fs.readFile('index.js', errorCallback);
-fs.readFileile('second.js', errorCallback);
+fs.readFile('second.js', errorCallback);
