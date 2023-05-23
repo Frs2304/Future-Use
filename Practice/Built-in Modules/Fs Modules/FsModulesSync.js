@@ -10,4 +10,4 @@ console.log(first,second);
 writeFileSync(
     'result.txt',
     `Here is the result : ${first}, ${second}`
-)
+);
