@@ -1,6 +1,6 @@
 const path = require('path');
  
-// outputs the file current path
+// outputs the file's current path
 const filePath = path.join('/Practice','Built-in Modules','PathModules.js');
 console.log(filePath);
 
